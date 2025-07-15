@@ -152,12 +152,12 @@
 
             <lg n="19" xml:id="lg019">
                <l n="55">Hence he drew forth the shade of the <persName key="Adam" type="fictional" xml:id="ada01">First Parent</persName>,</l>
-               <l n="56">And that of his son <persName cert="high" key="Abel" xml:id="abe01">Abel</persName>, and of <persName key="Noah" type="fictional">Noah</persName>,</l>
-               <l n="57">Of <persName cert="high" key="Moses" type="fictional">Moses</persName> the lawgiver, and the obedient</l>
+               <l n="56">And that of his son <persName cert="high" key="Abel" xml:id="abe01">Abel</persName>, and of <persName key="Noah" type="fictional" xml:id="noa01">Noah</persName>,</l>
+               <l n="57">Of <persName cert="high" key="Moses" type="fictional" xml:id="mos01">Moses</persName> the lawgiver, and the obedient</l>
             </lg>
 
             <lg n="20" xml:id="lg020">
-               <l n="58"><persName key="Abraham" ref="http://www.wikidata.org/entity/Q9181" type="fictional">Abraham</persName>, patriarch, and <persName cert="high" key="David" type="real">David</persName>, king,</l>
+               <l n="58"><persName key="Abraham" type="fictional" xml:id="abr01">Abraham</persName>, patriarch, and <persName cert="high" key="David" type="real">David</persName>, king,</l>
                <l n="59"><persName key="Jacob" type="fictional">Israel</persName> with his father and his children,</l>
                <l n="60">And <persName cert="high" key="Rachel">Rachel</persName>, for whose sake he did so much,</l>
             </lg>
