@@ -219,7 +219,7 @@
             <lg n="30" xml:id="lg030">
                <l n="88">That one is <persName key="Homer" type="identifiable" xml:id="hom01">Homer</persName>, Poet sovereign;</l>
                <l n="89">He who comes next is <persName cert="high" key="Horace." type="real" xml:id="hor01">Horace</persName>, the satirist;</l>
-               <l n="90">The third is <persName key="Ovidius Naso, Publius" ref="http://viaf.org/viaf/88342447">Ovid</persName>, and the last is Lucan.</l>
+               <l n="90">The third is <persName key="Ovidius Naso, Publius" xml:id="ovi01">Ovid</persName>, and the last is Lucan.</l>
             </lg>
 
             <lg n="31" xml:id="lg031">
@@ -283,8 +283,8 @@
             </lg>
 
             <lg n="41" xml:id="lg041">
-               <l n="121">I saw <persName key="Elektra" ref="http://www.wikidata.org/entity/Q131651" cert="high" type="fictional">Electra</persName> with companions many,</l>
-               <l n="122">’Mongst whom I knew both <persName key="Hector" ref="http://www.wikidata.org/entity/Q159666">Hector</persName> and <persName key="Aeneas" ref="http://www.wikidata.org/entity/Q82732" cert="high" type="fictional">Aeneas</persName>,</l>
+               <l n="121">I saw <persName cert="high" key="Elektra" type="fictional" xml:id="ele01">Electra</persName> with companions many,</l>
+               <l n="122">’Mongst whom I knew both <persName key="Hector" xml:id="hec01">Hector</persName> and <persName key="Aeneas" ref="http://www.wikidata.org/entity/Q82732" cert="high" type="fictional">Aeneas</persName>,</l>
                <l n="123">Caesar in armour with gerfalcon eyes;</l>
             </lg>
 
