@@ -151,8 +151,8 @@
             </lg>
 
             <lg n="19" xml:id="lg019">
-               <l n="55">Hence he drew forth the shade of the <persName key="Adam" type="fictional">First Parent</persName>,</l>
-               <l n="56">And that of his son <persName cert="high" key="Abel">Abel</persName>, and of <persName key="Noah" type="fictional">Noah</persName>,</l>
+               <l n="55">Hence he drew forth the shade of the <persName key="Adam" type="fictional" xml:id="ada01">First Parent</persName>,</l>
+               <l n="56">And that of his son <persName cert="high" key="Abel" xml:id="abe01">Abel</persName>, and of <persName key="Noah" type="fictional">Noah</persName>,</l>
                <l n="57">Of <persName cert="high" key="Moses" type="fictional">Moses</persName> the lawgiver, and the obedient</l>
             </lg>
 
