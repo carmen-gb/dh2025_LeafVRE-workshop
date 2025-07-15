@@ -218,8 +218,8 @@
 
             <lg n="30" xml:id="lg030">
                <l n="88">That one is <persName key="Homer" ref="http://viaf.org/viaf/224924963" type="identifiable">Homer</persName>, Poet sovereign;</l>
-               <l n="89">He who comes next is Horace, the satirist;</l>
-               <l n="90">The third is Ovid, and the last is Lucan.</l>
+               <l n="89">He who comes next is <persName key="Horace." ref="http://viaf.org/viaf/100227522" cert="high" type="real">Horace</persName>, the satirist;</l>
+               <l n="90">The third is <persName key="Ovidius Naso, Publius" ref="http://viaf.org/viaf/88342447">Ovid</persName>, and the last is Lucan.</l>
             </lg>
 
             <lg n="31" xml:id="lg031">
