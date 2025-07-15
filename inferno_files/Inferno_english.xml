@@ -138,7 +138,7 @@
 	"id": "https://raw.githubusercontent.com/carmen-gb/dh2025_LeafVRE-workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145553133",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T13:55:53.133Z",
-	"dcterms:modified": "2025-07-15T13:55:53.133Z",
+	"dcterms:modified": "2025-07-15T13:57:46.783Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/carmen-gb",
 		"@type": [
@@ -173,7 +173,9 @@
 			"cwrc:NaturalPerson",
 			"schema:Person",
 			"http://id.lincsproject.ca/edit/modeIdentifiable"
-		]
+		],
+		"@id": "http://viaf.org/viaf/8194433",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -229,7 +231,7 @@
             </lg>
 
             <lg n="5" xml:id="lg005">
-               <l n="13">“Let us descend now into the blind world,”</l><l n="13">Began the <persName cert="high" type="identifiable" xml:id="virg01">Poet</persName>, lapplid utterly;</l>
+               <l n="13">“Let us descend now into the blind world,”</l><l n="13">Began the <persName cert="high" type="identifiable" xml:id="virg01" key="Virgil." ref="http://viaf.org/viaf/8194433" subtype="roman">Poet</persName>, lapplid utterly;</l>
                
                <l n="15">“I will be first, and thou shalt second be.”</l>
             </lg>
