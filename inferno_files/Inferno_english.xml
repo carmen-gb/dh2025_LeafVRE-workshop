@@ -157,8 +157,8 @@
             </lg>
 
             <lg n="20" xml:id="lg020">
-               <l n="58"><persName key="Abraham" type="fictional" xml:id="abr01">Abraham</persName>, patriarch, and <persName cert="high" key="David" type="real">David</persName>, king,</l>
-               <l n="59"><persName key="Jacob" type="fictional">Israel</persName> with his father and his children,</l>
+               <l n="58"><persName key="Abraham" type="fictional" xml:id="abr01">Abraham</persName>, patriarch, and <persName cert="high" key="David" type="real" xml:id="dav01">David</persName>, king,</l>
+               <l n="59"><persName key="Jacob" type="fictional" xml:id="jac01">Israel</persName> with his father and his children,</l>
                <l n="60">And <persName cert="high" key="Rachel">Rachel</persName>, for whose sake he did so much,</l>
             </lg>
 
