@@ -151,8 +151,8 @@
             </lg>
 
             <lg n="19" xml:id="lg019">
-               <l n="55">Hence he drew forth the shade of the <persName key="Adam" ref="http://www.wikidata.org/entity/Q70899" type="fictional">First Parent</persName>,</l>
-               <l n="56">And that of his son <persName key="Abel" ref="http://www.wikidata.org/entity/Q313421" cert="high">Abel</persName>, and of <persName key="Noah" ref="http://www.wikidata.org/entity/Q81422" type="fictional">Noah</persName>,</l>
+               <l n="55">Hence he drew forth the shade of the <persName key="Adam" type="fictional">First Parent</persName>,</l>
+               <l n="56">And that of his son <persName cert="high" key="Abel">Abel</persName>, and of <persName key="Noah" ref="http://www.wikidata.org/entity/Q81422" type="fictional">Noah</persName>,</l>
                <l n="57">Of <persName key="Moses" ref="http://www.wikidata.org/entity/Q9077" cert="high" type="fictional">Moses</persName> the lawgiver, and the obedient</l>
             </lg>
 
