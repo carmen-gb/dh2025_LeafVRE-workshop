@@ -217,7 +217,7 @@
             </lg>
 
             <lg n="30" xml:id="lg030">
-               <l n="88">That one is <persName key="Homer" type="identifiable" xml:id="hom01">Homer</persName>, Poet sovereign;</l>
+               <l n="88">That one is <persName key="Homer" role="poet" subtype="greek" type="identifiable" xml:id="hom01">Homer</persName>, Poet sovereign;</l>
                <l n="89">He who comes next is <persName cert="high" key="Horace." type="real" xml:id="hor01">Horace</persName>, the satirist;</l>
                <l n="90">The third is <persName key="Ovidius Naso, Publius" xml:id="ovi01">Ovid</persName>, and the last is Lucan.</l>
             </lg>
