@@ -58,7 +58,7 @@
 	"id": "https://raw.githubusercontent.com/carmen-gb/dh2025_LeafVRE-workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145524803",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T13:55:24.803Z",
-	"dcterms:modified": "2025-07-15T13:55:24.803Z",
+	"dcterms:modified": "2025-07-15T14:01:39.922Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/carmen-gb",
 		"@type": [
@@ -135,10 +135,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/carmen-gb/dh2025_LeafVRE-workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145553133",
+	"id": "https://raw.githubusercontent.com/carmen-gb/dh2025_LeafVRE-workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145746783",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-15T13:55:53.133Z",
-	"dcterms:modified": "2025-07-15T13:57:46.783Z",
+	"dcterms:created": "2025-07-15T13:57:46.783Z",
+	"dcterms:modified": "2025-07-15T14:01:14.396Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/carmen-gb",
 		"@type": [
@@ -149,7 +149,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/carmen-gb/dh2025_LeafVRE-workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145553133#Target",
+		"@id": "https://raw.githubusercontent.com/carmen-gb/dh2025_LeafVRE-workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145746783#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/carmen-gb/dh2025_LeafVRE-workshop/main/inferno_files/Inferno_english.xml",
@@ -163,7 +163,7 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/carmen-gb/dh2025_LeafVRE-workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145553133#Selector",
+			"@id": "https://raw.githubusercontent.com/carmen-gb/dh2025_LeafVRE-workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145746783#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[5]/l[2]/persName"
 		}
@@ -205,7 +205,7 @@
          <div type="canto">
             <pb facs="https://upload.wikimedia.org/wikipedia/commons/3/38/Inferno_Canto_4_four_bards.jpg"/>
             <head>The Inferno: Canto IV</head>
-            <byline><persName key="Dante Alighieri, 1265-1321." ref="http://viaf.org/viaf/97105654" cert="high" role="poet" subtype="italian" xml:id="dan01">Dante Alighieri</persName></byline>
+            <byline><persName key="Dante Alighieri, 1265-1321." ref="http://viaf.org/viaf/97105654" cert="high" role="aut" subtype="italian" xml:id="dan01">Dante Alighieri</persName></byline>
             <lg n="1" xml:id="lg001">
                <l n="1">Broke the deep lethargy within my head</l>
                <l n="2">A heavy thunder, so that I upstarted,</l>
@@ -231,7 +231,7 @@
             </lg>
 
             <lg n="5" xml:id="lg005">
-               <l n="13">“Let us descend now into the blind world,”</l><l n="13">Began the <persName cert="high" type="identifiable" xml:id="virg01" key="Virgil." ref="http://viaf.org/viaf/8194433" subtype="roman">Poet</persName>, lapplid utterly;</l>
+               <l n="13">“Let us descend now into the blind world,”</l><l n="13">Began the <persName cert="high" type="identifiable" xml:id="virg01" key="Virgil." ref="http://viaf.org/viaf/8194433" subtype="roman" role="aut">Poet</persName>, lapplid utterly;</l>
                
                <l n="15">“I will be first, and thou shalt second be.”</l>
             </lg>
