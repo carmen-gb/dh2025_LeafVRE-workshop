@@ -152,7 +152,7 @@
 
             <lg n="19" xml:id="lg019">
                <l n="55">Hence he drew forth the shade of the <persName key="Adam" role="bible_character" subtype="hebrew" type="fictional" xml:id="ada01">First Parent</persName>,</l>
-               <l n="56">And that of his son <persName cert="high" key="Abel" xml:id="abe01">Abel</persName>, and of <persName key="Noah" type="fictional" xml:id="noa01">Noah</persName>,</l>
+               <l n="56">And that of his son <persName cert="high" key="Abel" role="bible_character" subtype="hebrew" xml:id="abe01">Abel</persName>, and of <persName key="Noah" role="bible_character" subtype="hebrew" type="fictional" xml:id="noa01">Noah</persName>,</l>
                <l n="57">Of <persName cert="high" key="Moses" type="fictional" xml:id="mos01">Moses</persName> the lawgiver, and the obedient</l>
             </lg>
 
