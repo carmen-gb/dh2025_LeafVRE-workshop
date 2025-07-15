@@ -290,8 +290,8 @@
 
             <lg n="42" xml:id="lg042">
                <l n="124">I saw <persName type="fictional" xml:id="cam01">Camilla</persName> and <persName cert="high" xml:id="pen01">Penthesilea</persName></l>
-               <l n="125">On the other side, and saw the King Latinus,</l>
-               <l n="126">Who with Lavinia his daughter sat;</l>
+               <l n="125">On the other side, and saw the <persName type="fictional" xml:id="lat01">King Latinus</persName>,</l>
+               <l n="126">Who with <persName cert="high" xml:id="lav01">Lavinia</persName> his daughter sat;</l>
             </lg>
 
             <lg n="43" xml:id="lg043">
