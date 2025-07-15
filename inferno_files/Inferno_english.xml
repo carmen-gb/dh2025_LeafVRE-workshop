@@ -58,7 +58,7 @@
 	"id": "https://raw.githubusercontent.com/carmen-gb/dh2025_LeafVRE-workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145524803",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T13:55:24.803Z",
-	"dcterms:modified": "2025-07-15T14:01:39.922Z",
+	"dcterms:modified": "2025-07-15T14:02:06.773Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/carmen-gb",
 		"@type": [
@@ -205,7 +205,7 @@
          <div type="canto">
             <pb facs="https://upload.wikimedia.org/wikipedia/commons/3/38/Inferno_Canto_4_four_bards.jpg"/>
             <head>The Inferno: Canto IV</head>
-            <byline><persName key="Dante Alighieri, 1265-1321." ref="http://viaf.org/viaf/97105654" cert="high" role="aut" subtype="italian" xml:id="dan01">Dante Alighieri</persName></byline>
+            <byline><persName key="Dante Alighieri, 1265-1321." ref="http://viaf.org/viaf/97105654" cert="high" role="aut" subtype="italian" xml:id="dan01" type="real">Dante Alighieri</persName></byline>
             <lg n="1" xml:id="lg001">
                <l n="1">Broke the deep lethargy within my head</l>
                <l n="2">A heavy thunder, so that I upstarted,</l>
