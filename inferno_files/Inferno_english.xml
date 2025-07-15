@@ -159,7 +159,7 @@
             <lg n="20" xml:id="lg020">
                <l n="58"><persName key="Abraham" ref="http://www.wikidata.org/entity/Q9181" type="fictional">Abraham</persName>, patriarch, and <persName key="David" ref="http://www.wikidata.org/entity/Q41370" cert="high" type="real">David</persName>, king,</l>
                <l n="59"><persName key="Jacob" ref="http://www.wikidata.org/entity/Q289957" type="fictional">Israel</persName> with his father and his children,</l>
-               <l n="60">And Rachel, for whose sake he did so much,</l>
+               <l n="60">And <persName key="Rachel" ref="http://dbpedia.org/resource/Rachel" cert="high">Rachel</persName>, for whose sake he did so much,</l>
             </lg>
 
             <lg n="21" xml:id="lg021">
