@@ -295,8 +295,8 @@
             </lg>
 
             <lg n="43" xml:id="lg043">
-               <l n="127">I saw that <persName type="fictional" xml:id="bru01">Brutus</persName> who drove Tarquin forth,</l>
-               <l n="128">Lucretia, Julia, Marcia, and Cornelia,</l>
+               <l n="127">I saw that <persName type="fictional" xml:id="bru01">Brutus</persName> who drove <persName cert="high" xml:id="tar01">Tarquin</persName> forth,</l>
+               <l n="128"><persName type="fictional" xml:id="luc01">Lucretia</persName>, Julia, Marcia, and Cornelia,</l>
                <l n="129">And saw alone, apart, the Saladin.</l>
             </lg>
 
