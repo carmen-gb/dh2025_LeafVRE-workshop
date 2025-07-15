@@ -313,8 +313,8 @@
             </lg>
 
             <lg n="46" xml:id="lg046">
-               <l n="136">Democritus, who puts the world on chance,</l>
-               <l n="137">Diogenes, Anaxagoras, and Thales,</l>
+               <l n="136"><persName cert="high" xml:id="dem01">Democritus</persName>, who puts the world on chance,</l>
+               <l n="137"><persName type="real" xml:id="dio01">Diogenes</persName>, Anaxagoras, and Thales,</l>
                <l n="138">Zeno, Empedocles, and Heraclitus;</l>
             </lg>
 
